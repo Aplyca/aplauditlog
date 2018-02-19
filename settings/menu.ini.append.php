@@ -3,5 +3,5 @@
 [Leftmenu_setup]
 Links[auditlog]=auditlog/list
 PolicyList_auditlog[]=auditlog/audit
-
+LinkNames[auditlog]=Audit logs
 */ ?>
